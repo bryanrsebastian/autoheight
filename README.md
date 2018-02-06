@@ -32,4 +32,4 @@ Now initiate the autoheight.js
 | ------ | ------ | ------ |
 | maxMin `string` | 'max'  | Get the maximum or minimum height of the selected element. 'max' or 'min' are the only values that can be placed in this option. |
 | onResize `boolean` | false | Enable/disable on resize |
-| disableOnSize `boolean||int` | false | Disables auto height when it reaches the given value. Note : the int value is the windows width (px) |
+| disableOnSize `boolean` `int` | false | Disables auto height when it reaches the given value. Note : the int value is the windows width (px) |
