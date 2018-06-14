@@ -1,4 +1,4 @@
-# autoheight.js
+# autoheight
 
 Makes the height of all selected elements the same based on the max or min height.
     
@@ -13,12 +13,12 @@ Include first the jQuery library
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 ```
 
-Include the autoheight.js
+Include the autoheight.min.js
 ```sh
-<script src="autoheight.js"></script>
+<script src="autoheight.min.js"></script>
 ```
 
-Now initiate the autoheight.js
+Now initialize the autoheight
 ```sh
 <script type="text/javascript">
     <!-- Default usage -->
@@ -42,4 +42,4 @@ Requests must be made against the develop branch. Pull requests submitted agains
 All pull requests are subject to approval by the repository owners, who have sole discretion over acceptance or denial.
 
 ### License
-autoheight is under MIT license - http://www.opensource.org/licenses/mit-license.php
+autoheight is under MIT license - https://github.com/bryan-sebastian/autoheight/blob/master/LICENSE.md
